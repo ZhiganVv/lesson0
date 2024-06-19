@@ -1,0 +1,7 @@
+my_string = input("Где вы находитесь (Страна, город)? ")
+print(len(my_string))
+print(str(my_string).upper())
+print(str(my_string).lower())
+print(str(my_string).replace(" ", ""))
+print(str(my_string)[0])
+print(str(my_string)[-1])
